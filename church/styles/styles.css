@@ -1,0 +1,17 @@
+img { width: 80%; }
+* {border: 2px solid rgb(170, 170, 192);}
+body{text-align: center;}
+h1{text-align:center;}
+nav, footer{text-align:center;}
+img { width: 80%;
+    display: block;
+    margin: 0 auto;}
+ main p {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;}
+ main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;}
+* {border: 2px solid rgb(150, 150, 231);}
