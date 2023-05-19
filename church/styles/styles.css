@@ -1,11 +1,15 @@
 img { width: 80%; }
-* {border: 2px solid rgb(170, 170, 192);}
+* {border: 2px solid rgb(222, 97, 97);}
 body{text-align: center;}
-h1{text-align:center;}
+h1{text-align:center;
+   margin: 50px 0;
+}
 nav, footer{text-align:center;}
 img { width: 80%;
     display: block;
-    margin: 0 auto;}
+    margin: 0 auto;
+    border: 4px soli steelblue;
+   }
  main p {
     width: 80%;
     margin: 0 auto;
@@ -14,4 +18,23 @@ img { width: 80%;
     width: 80%;
     margin: 50px auto;
     text-align: center;}
-* {border: 2px solid rgb(150, 150, 231);}
+* {border: 2px solid rgb(10, 14, 0);}
+footer {
+   background-color: steelblue;
+   color: white;
+}
+footer p{
+   padding: 25px;
+}
+nav {
+   background-color: steelblue;
+}
+a {
+   color: white;
+}
+nav {
+   padding: 25px;
+}
+body {
+   margin: 0
+}
