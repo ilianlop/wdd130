@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+#content { max-width: 1600px; margin: 0 auto;}
+#content { max-width: 1600px; margin: 0 auto;}
+
+#background{
+    height: 725px;
+    background-color: white;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
+
+logo{
+padding-top: 5px;
+justify-self: center;
+align-self: center;
+}
+
+p{
+    text-align: center;
+    color: rgb(72, 72, 190);
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+div {
+    width: 200px;
+    height: 65px;
+    background-color: coral;
+    overflow: visible;
+  }
